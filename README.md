@@ -9,11 +9,10 @@ MELOMANE PROGRAMMER, DEDICATED TO CREATING SOLUTIONS AND MELODIES THAT MOVE THE 
 - 😄 Pronouns: Nicolás!!!!
 
 ## Skills and technologies
-- [Javascript] ![ICON FOR SKILL OR TECHNOLOGY 1](link/to/icon)
-- [ReactJS] ![ICON FOR SKILL OR TECHNOLOGY 2](link/to/icon)
-- [NodeJs] ![ICON FOR SKILL OR TECHNOLOGY 3](link/to/icon)
-- ...
-
+- Javascript ![ICON FOR SKILL OR TECHNOLOGY 1](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+- ReactJS ![ICON FOR SKILL OR TECHNOLOGY 2](link/to/icon)
+- NodeJs ![ICON FOR SKILL OR TECHNOLOGY 3](link/to/icon)
+- MongoDB 
 
 ## Contact
 - Email: nicolaspantojadi@gmail.com
