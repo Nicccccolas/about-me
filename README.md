@@ -1,4 +1,4 @@
-# Hello, I'm Nicccccolás! <img src="https://freight.cargo.site/w/300/i/88f8ae9db4338976a233e9bbbbeed969c8466b873ee218ea902713bb6ebdea47/Chill_Chip-Alpha.gif" width="60">
+# Hello, I'm Nicccccolás! <img src="https://freight.cargo.site/w/300/i/88f8ae9db4338976a233e9bbbbeed969c8466b873ee218ea902713bb6ebdea47/Chill_Chip-Alpha.gif" width="40">
 
 ![build: passing](https://img.shields.io/badge/build-passing-success) ![version :16.May.2023](https://img.shields.io/badge/version-16.May.2023-informational) [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/Nicccccolas) [![website](https://img.shields.io/badge/website-informational)](https://nicolaspantoja.netlify.app)
 
