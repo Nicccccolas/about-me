@@ -4,9 +4,6 @@
 <img src="https://freight.cargo.site/w/450/i/4577c75a5321130c9d9162cda6949bef9a0317a8ff9ab8812b9a4d6601aa9b5f/Witch-Surprise-06.gif" width="300" >
 
 
-
-MELOMANE PROGRAMMER, DEDICATED TO CREATING SOLUTIONS AND MELODIES THAT MOVE THE WORLD.
-
 ```javascript
 const aboutMe = {
   name: "Nicolas Pantoja Diaz",
@@ -39,11 +36,26 @@ const aboutMe = {
 };
 ```
 
+
+### Skills 🛠️
+
+| _Name                      | High                          | Medium             | Low                            |
+| -------------------------- | ----------------------------- | ------------------ | ------------------------------ |
+| **Languages(programming)** | JavaScript                    | Python, SQL        | Java                           |
+| **Frameworks/Platforms**   | NodeJs, ReactJs               | Git, Redux         | Angular                        |
+| **Languages(human)**       | Spanish                       | English            |                                |
+| **Other interests**        | Vinyl, Learning, Calisthenics | Videogames, Data Science         | Blockchain       |
+
+
+
+
+
+
 ### Work experience 👔
 
 | Job Position               | Company                 | Field                                 | Work Period                |
 | -------------------------- | ----------------------- | ------------------------------------- | -------------------------- |
-| **Nodejs Developer**       | **ISOSGRUOP**           | **developing and maintaining web applications, designing and implementing APIs and web services,**                 | **04.04.2023 — until now** |
+| **Nodejs Developer**       | **ISOSGRUOP**           | **Developing and maintaining web applications, designing and implementing APIs and web services**                 | **04.04.2023 — until now** |
 | Full Stack Web Developer   | Colombian T.I Software  | Intership Developer                   | 15.09.2022 — 15.01.2023    |
 | Area Manager               | KOAJ -INVECO            | Store management and administration   | 25.03.2020 — 25.10.2021    |
 
