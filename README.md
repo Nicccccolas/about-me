@@ -13,8 +13,7 @@ const aboutMe = {
   backEnd: {
       js: ["Nodejs", "Express"],
     },
-    databases: ["MongoDB", "PostgreSQL"]
-  
+    databases: ["MongoDB", "PostgreSQL"],  
     frontEnd: {
       js: ["React-vite", "jquery", "Redux", "React Router", "Axios"],
       css: ["Materialize", "Bootstrap", "Material Design"],
