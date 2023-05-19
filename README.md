@@ -10,7 +10,7 @@ const aboutMe = {
   nickName: ["Nicccccolas", "Nico"],
   code: [Javascript, Typescript, HTML, CSS],
   technologies: {
-  backEnd: {
+    backEnd: {
       js: ["Nodejs", "Express"],
     },
     databases: ["MongoDB", "PostgreSQL"],  
@@ -55,7 +55,8 @@ const aboutMe = {
 
 | Job Position               | Company                 | Field                                 | Work Period                |
 | -------------------------- | ----------------------- | ------------------------------------- | -------------------------- |
-| **Nodejs Developer**       | **ISOSGRUOP**           | **Developing and maintaining web applications, designing and implementing APIs and web services**                 | **04.04.2023 — until now** |
+| **Nodejs Developer**       | **ISOSGRUOP**           | **Developing and maintaining web applications, designing and implementing APIs and web services**                 | **08.04.2023 — until now** |
+| Nodejs Developer           | No-Country              | Intership Developer                   | 25.01.2023 — 04.04.2023    |
 | Full Stack Web Developer   | Colombian T.I Software  | Intership Developer                   | 15.09.2022 — 15.01.2023    |
 | Area Manager               | KOAJ -INVECO            | Store management and administration   | 25.03.2020 — 25.10.2021    |
 
