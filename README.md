@@ -10,15 +10,16 @@ const aboutMe = {
   nickName: ["Nicccccolas", "Nico"],
   code: [Javascript, Typescript, HTML, CSS],
   technologies: {
+  backEnd: {
+      js: ["Nodejs", "Express"],
+    },
+    databases: ["MongoDB", "PostgreSQL"]
+  
     frontEnd: {
       js: ["React-vite", "jquery", "Redux", "React Router", "Axios"],
       css: ["Materialize", "Bootstrap", "Material Design"],
     },
-    backEnd: {
-      js: ["Nodejs", "Express"],
-    },
-    databases: ["MongoDB", "PostgreSQL"],
-    otherTech: ["Docker", "AWS: S3"]
+    otherTech: ["Docker", "AWS: S3", "Sequelize", "Prisma"]
   },
   currentOccupation: ["Daily practitioner", "Open to new job opportunities", "Ready for any backend project"."],
   challenge: "Realizing individual and group projects to enhance my skills and become highly competent.",
