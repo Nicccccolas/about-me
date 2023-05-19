@@ -24,9 +24,9 @@ const aboutMe = {
   challenge: "Realizing individual and group projects to enhance my skills and become highly competent.",
   currentLearning: {
     fullStackWebDevelopment: {
-      frontEnd: "50%",
       backEnd: "80%",
       database: "70%",
+      frontEnd: "50%"
     },
     cibersecurityAndEthicalHacking: {
       bashScripting: "50%",
