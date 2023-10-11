@@ -8,7 +8,7 @@
 const aboutMe = {
   name: "Nicolas Pantoja Diaz",
   nickName: ["Nicccccolas", "Nico"],
-  code: [Javascript, Java, HTML, CSS],
+  code: ["Javascript", "Java", "HTML", "CSS"],
   technologies: {
     backEnd: {
       js: ["Nodejs", "Express"],
