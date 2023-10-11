@@ -8,7 +8,7 @@
 const aboutMe = {
   name: "Nicolas Pantoja Diaz",
   nickName: ["Nicccccolas", "Nico"],
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Java, HTML, CSS],
   technologies: {
     backEnd: {
       js: ["Nodejs", "Express"],
@@ -18,15 +18,14 @@ const aboutMe = {
       js: ["React-vite", "jquery", "Redux", "React Router", "Axios"],
       css: ["Materialize", "Bootstrap", "Material Design"],
     },
-    otherTech: ["Docker", "AWS: S3", "Sequelize", "Prisma"]
+    otherTech: ["Docker", "AWS", "Sequelize"]
   },
-  currentOccupation: ["Daily practitioner", "Open to new job opportunities", "Ready for any backend project"."],
-  challenge: "Realizing individual and group projects to enhance my skills and become highly competent.",
+  currentOccupation: ["Samuel's father", "Daily working", "Open to new job opportunities"],
+  challenge: "Differentiate",
   currentLearning: {
     fullStackWebDevelopment: {
       backEnd: "80%",
       database: "70%",
-      frontEnd: "50%"
     },
     cibersecurityAndEthicalHacking: {
       bashScripting: "50%",
@@ -36,26 +35,11 @@ const aboutMe = {
 };
 ```
 
-
-### Skills 🛠️
-
-| _Name                      | High                          | Medium             | Low                            |
-| -------------------------- | ----------------------------- | ------------------ | ------------------------------ |
-| **Languages(programming)** | JavaScript                    | Python, SQL        | Java                           |
-| **Frameworks/Platforms**   | NodeJs, ReactJs               | Git, Redux         | Angular                        |
-| **Languages(human)**       | Spanish                       | English            |                                |
-| **Other interests**        | Vinyl, Learning, Calisthenics | Videogames, Data Science         | Blockchain       |
-
-
-
-
-
-
 ### Work experience 👔
 
 | Job Position               | Company                 | Field                                 | Work Period                |
 | -------------------------- | ----------------------- | ------------------------------------- | -------------------------- |
-| **Nodejs Developer**       | **ISOSGRUOP**           | **Developing and maintaining web applications, designing and implementing APIs and web services**                 | **08.04.2023 — until now** |
+| **Nodejs Developer**       | **ISOSGRUOP**           | **Developing and maintaining web applications, designing and implementing APIs and web services** | **08.04.2023 — until now** |
 | Nodejs Developer           | No-Country              | Intership Developer                   | 25.01.2023 — 04.04.2023    |
 | Full Stack Web Developer   | Colombian T.I Software  | Intership Developer                   | 15.09.2022 — 15.01.2023    |
 | Area Manager               | KOAJ -INVECO            | Store management and administration   | 25.03.2020 — 25.10.2021    |
