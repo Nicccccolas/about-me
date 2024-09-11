@@ -8,7 +8,7 @@ const aboutMe = {
   code: [ "TypeScript", "JavaScript", "Java" ],
   technologies: {
     backEnd: {
-      nodejs: [ "Expressjs", "Nestjs ],
+      nodejs: [ "Expressjs", "Nestjs ]
     },
     databases: [ "PostgreSQL", "MySQL", "MongoDB" ],  
     otherTech: [ "Sequelize", "TypeORM", "Prisma", "Docker", "AWS" ]
