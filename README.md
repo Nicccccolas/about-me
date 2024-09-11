@@ -5,15 +5,15 @@
 const aboutMe = {
   name: "Nicolas Pantoja Diaz",
   nickName: [ "Nico" ],
-  code: ["TypeScript", "JavaScript", "Java"],
+  code: [ "TypeScript", "JavaScript", "Java" ],
   technologies: {
     backEnd: {
-      nodejs: ["Expressjs", "Nestjs],
+      nodejs: [ "Expressjs", "Nestjs ],
     },
-    databases: ["PostgreSQL", "MySQL", "MongoDB" ],  
-    otherTech: ["Sequelize", "TypeORM", "Prisma", "Docker", "AWS" ]
+    databases: [ "PostgreSQL", "MySQL", "MongoDB" ],  
+    otherTech: [ "Sequelize", "TypeORM", "Prisma", "Docker", "AWS" ]
   },
-  currentOccupation: ["focused"],
+  currentOccupation: [ "focused", "student" ],
   challenge: "Differentiate",
   currentLearning: {
     fullStackWebDevelopment: {
@@ -24,7 +24,7 @@ const aboutMe = {
       bashScripting: "10%",
     },
   },
-  hobbies: ["Music vinyl collector", "Calisthenics"]
+  hobbies: [ "Music vinyl collector", "Calisthenics" ]
 };
 ```
 
