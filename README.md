@@ -1,5 +1,5 @@
 # Hey! I'm Nicommit
-![build: passing](https://img.shields.io/badge/build-passing-success) ![version :11.Sep.2024](https://img.shields.io/badge/version-16.May.2023-informational) [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/Nicccccolas) [![website](https://img.shields.io/badge/website-informational)](https://nicolaspantoja.netlify.app)
+![build: passing](https://img.shields.io/badge/build-passing-success) ![version :11.Sep.2024](https://img.shields.io/badge/version-11.Sep.2024-informational) [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/niccommit) [![website](https://img.shields.io/badge/website-informational)](https://nicommit.vercel.app)
 
 ```typescript
 const aboutMe = {
